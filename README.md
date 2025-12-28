@@ -1,1 +1,2 @@
-# app_git
+# app_git init the repository
+
